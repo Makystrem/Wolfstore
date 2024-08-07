@@ -1,0 +1,208 @@
+body{
+    margin: 0;
+    font-family: arial;
+}
+
+.nav{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 5.5rem;
+}
+
+.resumo-compra{
+    background-color: #e7e7e7;
+    width: 100%;
+    height: 3.5rem;
+}
+
+.contact{
+    font-size: 15px;
+    padding: 15px;
+background-color: rgb(255, 255, 255);
+
+}
+
+.email-input{
+    display: block;
+    margin-top: 5px;
+    padding: 5px;
+    width: 90%;
+    height: 30px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 5px;
+}
+
+.informationsUser{
+display: flex;
+justify-content: center;
+}
+
+.allow{
+    margin-top: 10px;
+}
+
+.separation{
+    width: 100%;
+    height: 12px;
+    background-color: #e7e7e7;
+}
+
+.separation2{
+    width: 100%;
+    height: 12px;
+    background-color: #e7e7e7;
+    margin-top: 1.5rem;
+}
+
+.content-contact{
+    margin-left: 5px;
+}
+
+.nav img{
+
+    position: absolute;
+    width: 50%;
+    height: 80px;
+
+    left: 30%;
+    top: 0;
+}
+
+.resumo-compra p{
+    display: inline;
+    text-align:right;
+}
+
+.resumo-compra h4{
+    display: inline-block;
+    text-align: center;
+}
+
+.entrega h4{
+    font-size: 1.5rem;
+}
+
+.br{
+    display: inline-block;
+ padding: 44px;
+    width: 90%;
+    height: 30px;
+
+}
+
+.entrega h4{
+    text-indent: 1.5rem;
+}
+
+
+.inputs input{
+    display: block;
+    margin-top: 5px;
+    padding: 5px;
+    width: 80%;
+    height: 30px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 5px;
+    margin-left: 1.3rem;
+}
+
+.saveInformation{
+    margin-left: 1.4rem;
+    margin-top: 1.3rem;
+}
+
+.payments h4{
+    font-size: 1.4rem;
+    text-indent: 1.4rem;
+    margin-bottom: 0;
+}
+
+.payments p{
+    font-size: 0.8rem;
+    text-indent: 1.4rem;
+}
+
+
+.inputscard input{
+    display: block;
+    margin-top: 5px;
+    padding: 5px;
+    width: 80%;
+    height: 30px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 5px;
+    margin-left: 1.3rem;
+}
+
+.payments button{
+    background-color: rgb(255, 0, 217);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 35px;
+    margin-top: 1.5rem;
+    margin-left: 1.4rem;
+    width: 85%;
+}
+
+.mastericon{
+
+    width: 35px;
+    height: 54px;
+}
+
+
+.resume h4{
+    font-size: 1.4rem;
+}
+
+.resume{
+    text-indent: 1.4rem;
+}
+
+.nameprodut{
+    display: inline-block;
+    margin-bottom: -10px;
+    text-align: right;
+}
+
+.priceprodut{
+    display: inline-block;
+    margin-bottom: -10px;
+    text-align: right;
+}
+
+.imgproduto{
+width: 70px;
+height: 50px;
+margin-left: 1.4rem;
+}
+
+.subtotal{
+    display: inline;
+}
+
+.frete{
+   display: inline;
+}
+
+.security{
+    background-color: #aac67b;
+    padding: 10px;
+    text-align: center;
+}
+
+.security h5{
+    display: inline;
+    color: white;
+    margin-left: 1.5rem;
+}
+
+.security img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 45%;
+    right: 50%;
+    top: 2%;
+}
